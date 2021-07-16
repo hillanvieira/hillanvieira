@@ -8,11 +8,9 @@
 
 
 ## Sobre mim
-Desenvolvedor de sistemas com foco atual no desenvolvimento Android utilizando Kotlin, arquitetura MVVM e
-uso do conjunto de bibliotecas do Jetpack.
-Como programador tenho bastante facilidade em aprender
-novas tecnologias,linguagens de programação e ferramentas
-e consigo lidar muito bem com problemas e desafios.
+- Desenvolvedor de software com experiência no desenvolvimento de aplicativos mobile e de firmware de sistemas embarcados.
+
+- Trabalhando desde 2016 em side job com desenvolvimento de aplicativos Android nativos com linguagem Java e Kotlin.
 
 ## Habilidades técnicas
 Kotlin, Android jetpack, Java, Dart, Flutter
